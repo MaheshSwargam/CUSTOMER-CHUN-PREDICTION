@@ -1,1 +1,1 @@
-# CUSTOMER-CHUN-PREDICTION
+# Customer-churn-prediction-codec
